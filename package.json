@@ -10,18 +10,18 @@
         "format:check": "oxfmt --check resources/js/"
     },
     "devDependencies": {
-        "@tailwindcss/vite": "^4.3.1",
-        "axios": "^1.18.0",
+        "@tailwindcss/vite": "^4.3.2",
+        "axios": "^1.18.1",
         "concurrently": "^10.0.3",
         "laravel-vite-plugin": "^3.1.0",
-        "oxfmt": "^0.55.0",
+        "oxfmt": "^0.57.0",
         "tailwindcss": "^4.2.2",
-        "vite": "^8.0.16"
+        "vite": "^8.1.1"
     },
     "dependencies": {
         "@vitejs/plugin-vue": "^6.0.7",
-        "oxlint": "^1.70.0",
-        "vue": "^3.5.38",
+        "oxlint": "^1.72.0",
+        "vue": "^3.5.39",
         "vue-router": "^5.1.0"
     },
     "volta": {
